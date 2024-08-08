@@ -1,0 +1,9 @@
+# MongoDB config
+MONGODB_CONNECTION_URI="mongodb+srv://TDA-RAG:ZAv3kYRVDW6CLHhH@cluster0.tsspjzk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+VECTOR_SEARCH_INDEX_NAME="vector_index"
+MONGODB_DATABASE_NAME="mongodb-chatbot-framework-chatbot"
+
+# OpenAI config
+OPENAI_API_KEY=sk-datateam-EbRvPTk8QBFgMEYlJsqeT3BlbkFJn6aIFD6ejzAdqaOZWk5J
+OPENAI_EMBEDDING_MODEL="text-embedding-ada-002" # or other model
+OPENAI_CHAT_COMPLETION_MODEL="gpt-3.5-turbo" # or other model
